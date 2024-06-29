@@ -12,6 +12,7 @@ import React from 'react';
 import 'react-toastify/dist/ReactToastify.css';
 
 // import Counter from "./components/Counter";
+//ese componente es de pruebita para ver el Counter 
 
 const App = () => {
   return (
